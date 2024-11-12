@@ -11,7 +11,7 @@ class Usuario(BaseModel):
     edad: int
     profesion: str
 
-DIRECTORIO = "/mnt/c/Users/tu_usuario/Documentos/datos_usuarios"
+DIRECTORIO = "/mnt/c/Users/jose/Documentos/datos_usuarios"
 
 os.makedirs(DIRECTORIO, exist_ok=True)
 

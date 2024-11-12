@@ -1,4 +1,4 @@
-DIRECTORIO_JSON="/mnt/c/Users/tu_usuario/Documentos/datos_usuarios"
+DIRECTORIO_JSON="/mnt/c/Users/jose/Documentos/datos_usuarios"
 
 NOMBRE_BUCKET="jdjv-so-ueia-2024"
 
